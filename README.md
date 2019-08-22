@@ -33,11 +33,11 @@ ENTREGA: 1 de 1 <br>
 APRESENTAÇÃO: 1 de 1</h3>
 
 
-
+Assista o vídeo<br>
 [![Assista o video](https://i.ytimg.com/vi/v3t-XjxGmQ8/hqdefault.jpg)](https://youtu.be/v3t-XjxGmQ8)
 
-
+Capa<br>
 ![](Capa.png)
 
-
+Manual<br>
 ![](Manual.jpg)
