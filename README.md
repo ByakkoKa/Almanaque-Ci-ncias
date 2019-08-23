@@ -1,7 +1,7 @@
 ﻿<h1>Almanaque Ciências</h1>
 <h3>Projeto TCC 
 
-Descrição: Jodo de plataforma e aventura, inspirado em jogos como Megaman X e Daffy Duck in Hollywood.<br>
+Descrição: Jogo de plataforma e aventura, inspirado em jogos como Megaman X e Daffy Duck in Hollywood.<br>
 
 Plataforma: Unreal<br>
 Linguagem: Blueprint<br>
