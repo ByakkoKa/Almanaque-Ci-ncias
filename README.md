@@ -6,7 +6,7 @@ Descrição: Jogo de plataforma e aventura, inspirado em jogos como Megaman X e 
 Plataforma: Unreal<br>
 Linguagem: Blueprint<br>
 
-<a href="https://drive.google.com/drive/folders/1f0SEMTMEMNB0qc7xgdSYja8PdlOYCHSe">Link para Download da Demo</a>
+<a href="https://1drv.ms/u/s!ArUxtbWQUs2ohkWYnM7BAm7IMreM?e=dWscKK">Link para Download da Demo</a>
 
 <h3>Mecânicas de destaque:</h3>
 
